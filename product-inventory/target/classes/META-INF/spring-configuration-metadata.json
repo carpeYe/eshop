@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.woniu.product.config.JedisClusterFactory",
+      "name": "spring.redis.cluster",
+      "type": "com.woniu.product.config.JedisClusterFactory"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.woniu.product.config.JedisClusterFactory",
+      "name": "spring.redis.cluster.nodes",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}
