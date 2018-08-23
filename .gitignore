@@ -1,5 +1,5 @@
 # maven ignore
-target/*
+target/
 .metadata/*
 *.jar
 *.war
@@ -11,6 +11,7 @@ target/*
 .settings/
 .project
 .classpath
+.class
 
 # idea ignore
 /.idea/*
