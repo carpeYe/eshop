@@ -12,7 +12,11 @@ import com.woniu.product.cache.kafka.KafkaProviderService;
 import com.woniu.product.cache.model.ProductInfo;
 import com.woniu.product.cache.rebuild.ReBuildQueue;
 import com.woniu.product.cache.service.CacheService;
-
+/**
+ * 商品库控制层
+ * @author Hesion
+ *
+ */
 @RestController
 public class ProductInfoController {
 
